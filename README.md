@@ -6,7 +6,7 @@ I like building interesting applications and solving interesting problems.
 Although I don't have much experience, I've already tried myself in building secure web applications using **Angular** and **Spring Boot**.  
 I've worked with Python library for creating backend applications called **Flask**.  
 I've some experience in creating reactive web apps using **React**.  
-I have some experience with **Docker** and I really like the idea of dockerisation of the applications.  
+I have some experience with **Docker**.  
 
 ## 👓 I’m currently learning everything...
 Okay, I am learning **Computer Science** in Tallinn University of Technology (AKA TalTech).  
