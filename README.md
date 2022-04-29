@@ -1,12 +1,5 @@
 # 👋 Hi, I’m @alfrol
 
-## 📫 How to reach me?
-It's easy, just:
- - drop me a message on [Facebook](https://www.facebook.com/profile.php?id=100004312478988) or
- - write me an email to aleksandrfrol.2000@gmail.com or
- - connect with me on [LikedIn](https://www.linkedin.com/in/afrolov3/)
-
-<!---
-alfrol/alfrol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004312478988)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksandrfrol.2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrolov3/)
